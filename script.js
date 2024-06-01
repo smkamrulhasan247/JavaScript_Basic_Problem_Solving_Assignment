@@ -111,7 +111,7 @@ console.log(squareRoot);
 
 // 10.1. Ans:
 const x = 10;
-const y = 5;
+const y = 5; // comment
 alert(x > y);
 
 // 10.2. Question: Choose the correct conditional (ternary) operator to alert "Too young" if age is less than 18, otherwise alert "Old enough"
